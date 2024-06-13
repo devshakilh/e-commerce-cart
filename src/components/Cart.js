@@ -14,6 +14,10 @@ const Cart = ({ cart, updateQuantity }) => {
       </ul>
       <p className="font-bold mt-4">Total: ${total.toFixed(2)}</p>
 
+      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-4">
+        Checkout
+      </button>
+
       
     </div>
   );
