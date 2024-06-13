@@ -1,5 +1,3 @@
-Sure! Here is a comprehensive README file for your project:
-
 ---
 
 # Simple E-Commerce Cart
@@ -123,5 +121,3 @@ Please ensure that your code adheres to the existing code style and includes app
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-Feel free to modify this README file according to your project's specific details and requirements.
