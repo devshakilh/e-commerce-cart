@@ -1,5 +1,3 @@
-Sure! Here is a comprehensive README file for your project:
-
 ---
 
 # Simple E-Commerce Cart
