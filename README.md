@@ -98,7 +98,7 @@ simple-ecommerce-cart/
 ├── README.md
 └── ...
 ```
-
+-Demo image (https://i.ibb.co/8zQDK08/Fire-Shot-Capture-008-E-commerce-Cart-localhost.png)
 ## Technologies Used
 
 - React: A JavaScript library for building user interfaces.
